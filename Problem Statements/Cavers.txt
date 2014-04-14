@@ -12,14 +12,18 @@ Output
 Your program should write one integer - the maximal number of cavers that can participate in the training session.
 Example
 Sample input:
-12 4342 5 18
-29 7
-2 6 11 18
+12
+4 3 4 2 5
+1 8
+2 9 7
+2 6 11 
+1 8
 2 9 10
-2 10 11 1 12
-2 10 12 1 12
+2 10 11
+1 12
+2 10 12
+1 12
 1 12
 Sample output:
 3
-Graphical view of the cave system described by the sample input (Top Chamber: 1; Bottom Chamber: 12):
 ￼
